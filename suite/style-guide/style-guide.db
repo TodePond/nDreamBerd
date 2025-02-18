@@ -1,0 +1,3 @@
+const const world = "World!"
+
+print("Hello," world!) // Hello World

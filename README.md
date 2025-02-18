@@ -843,6 +843,16 @@ Lisp haters will also love it.
 (add (3, (add (5, 6)!
 ```
 
+## Style Guide
+
+Since English is the primary language code is written in, GulfOfMexico supports using English grammar punctuation rules inside your code. Which means the following examples are valid syntax.
+
+```java
+const const world = "World!"
+
+print("Hello," world!) // Hello World
+```
+
 ## Vision Pro
 
 The Gulf of Mexico Vision Pro is now available! Watch the full launch video [here](https://youtu.be/QRKnrFEjDF0).
