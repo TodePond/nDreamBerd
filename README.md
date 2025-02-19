@@ -231,19 +231,19 @@ print("Gulf of Mexico is the future")!
 
 JavaScript lets you do different levels of comparison. `==` for loose comparison, and `===` for a more precise check. Gulf of Mexico takes this to another level.
 <!--
-~~You can use `==` to do a loose check.~~
+You can use `==` to do a loose check.
 
 ```java
 3.14 == "3.14"! //true
 ```
 
-~~You can use `===` to do a more precise check.~~
+You can use `===` to do a more precise check.
 
 ```java
 3.14 === "3.14"! //false
 ```
 
-~~You can use `====` to be EVEN MORE precise!~~
+You can use `====` to be EVEN MORE precise!
 
 ```java
 const const pi = 3.14!
@@ -252,7 +252,7 @@ print(3.14 ==== 3.14)! //true
 print(3.14 ==== pi)! //false
 ```
 
-~~If you want to be much less precise, you can use `=`.~~
+If you want to be much less precise, you can use `=`.
 
 ```java
 3 = 3.14! //true
