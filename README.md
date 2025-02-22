@@ -525,7 +525,7 @@ const const name = "Lu"!
 print(name)! // "Lu"
 ```
 
-Variables with more exclamation marks get prioritised.
+Variables with more exclamation marks get prioritized.
 
 ```java
 const const name = "Lu"!!
