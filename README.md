@@ -271,7 +271,7 @@ functi power(a, b) => a ^ b!
 f inverse(a) => 1/a!
 ```
 **New for 2025!**  
-Running a function now costs 1 cent per line of code!
+Due to several reasons, running a function now costs 1 cent per line of code!
 
 ## Dividing by Zero
 
